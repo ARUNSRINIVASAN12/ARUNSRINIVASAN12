@@ -1,5 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)]()
-<h1 align="center">Hi 👋, I'm Arun Srinivasan V K</h1>
+
+#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&width=1000&lines=Hi+👋,+I'm+Arun+Srinivasan+Venkatesan+Krishna+Moorthi)](https://github.com/ARUNSRINIVASAN12)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunsrinivasan12&label=Profile%20views&color=0e75b6&style=flat" alt="arunsrinivasan12" /> </p>
 
@@ -9,15 +10,17 @@ As a master's student in Robotics, Electrical, and Computer Engineering at North
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/85d8088f419078b5efe45c2ddfe32827519e04e0d1a014c577279f95fbba525a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966">
 
-- 🔭 I’m currently working on **Computer Vision, Machine Learning and Robotics projects**
+🔭 I’m currently working on **Computer Vision, Machine Learning and Robotics projects**
 
-- 🌱 I’m currently learning **AI and Robotics**
+🌱 I’m currently learning **AI and Robotics**
 
-- 🤝 I’m currently looking for **internships/ coops**
+🤝 I’m currently looking for **internships/ coops**
 
-- 💬 Ask me about **Anything tech**
+💬 Ask me about **Anything tech**
 
-- 📫 How to reach me **arunsrinivasan1210@gmail.com**
+📫 How to reach me **arunsrinivasan1210@gmail.com**
+
+⚡ Fun fact: Most people have difficulty in spelling my full name. Give it a try 🙃
 
 
 ![line](https://user-images.githubusercontent.com/86270481/225366031-44877c54-647e-4dfe-8b05-a639eb1a8211.gif)
