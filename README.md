@@ -20,7 +20,7 @@ As a master's student in Robotics, Electrical, and Computer Engineering at North
 
 📫 How to reach me **arunsrinivasan1210@gmail.com**
 
-⚡ Fun fact: Most people have difficulty in spelling my full name. Give it a try 🙃
+⚡ Fun fact: Most people have difficulty in spelling my full name, Give it a try 🙃
 
 
 ![line](https://user-images.githubusercontent.com/86270481/225366031-44877c54-647e-4dfe-8b05-a639eb1a8211.gif)
